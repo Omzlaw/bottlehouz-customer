@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1094923648190",
+    "project_id": "bottlehouz",
+    "storage_bucket": "bottlehouz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094923648190:android:061cd332974e2116bdf2ef",
+        "android_client_info": {
+          "package_name": "com.bottlehouz.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094923648190-h91k203qqkqgg3t5s5jfenii0mmfm9h6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bottlehouz.customer",
+            "certificate_hash": "bea335a04aa9bdfff25c5e6b42829786e37731df"
+          }
+        },
+        {
+          "client_id": "1094923648190-i9nto8659hhuaffva08dio85m8rhr5eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb9AmpIO46ljmU9YUiBQAJ0hUiM3NKwyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094923648190-i9nto8659hhuaffva08dio85m8rhr5eg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1094923648190-n6pp4mtftbhrqk5fjbto2hp0rsuqtlft.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bottlehouz.customer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
